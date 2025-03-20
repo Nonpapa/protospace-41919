@@ -283,7 +283,7 @@ DEPENDENCIES
   jbuilder
   mini_magick
   mysql2 (~> 0.5)
-  pg
+  pg (~> 1.4)
   puma (>= 5.0)
   rails (~> 7.1.0)
   selenium-webdriver
