@@ -72,5 +72,5 @@ gem 'mini_magick'
 gem 'image_processing', '~> 1.2'
 
 group :production do
-  gem 'pg', '~> 1.4'
+  gem 'pg'
 end
